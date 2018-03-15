@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">O&#x2083;METER</string>
+    <string name="action_about">About</string>
+    <string name="logo_descrip" translatable="false">Logo EPhysLab</string>
+    <string name="btn_gallery">Get from gallery</string>
+    <string name="btn_camera">Get from camera</string>
+    <string name="about" translatable="false">Copyright (C) 2018 - AperCloud\nAlexandro Pereiro Rodríguez - info@apercloud.es - www.apercloud.es\n\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.</string>
+    <string name="img_resultphoto">Result photo</string>
+    <string name="scale_info" >Scale from 0 to 180</string>
+    <string name="img_resultcolor">Result color</string>
+    <string name="img_gradient">Color scale gradient</string>
+    <string name="btn_zoom_minus">Zoom out</string>
+    <string name="btn_zoom_plus">Zoom in</string>
+    <string name="background">Background color</string>
+    <string name="btn_zoom_original">Zoom original</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_about">Acerca de</string>
+    <string name="btn_camera">Hacer foto con la cámara</string>
+    <string name="btn_gallery">Seleccionar de la galería</string>
+    <string name="scale_info">Escala de 0 a 180</string>
+    <string name="img_resultphoto">Foto final</string>
+    <string name="img_resultcolor">Result color</string>
+    <string name="img_gradient">Color scale gradient</string>
+    <string name="btn_zoom_minus">Zoom out</string>
+    <string name="btn_zoom_plus">Zoom in</string>
+    <string name="background">Background color</string>
+    <string name="btn_zoom_original">Zoom original</string>
+</resources>
